@@ -13,6 +13,7 @@ Show case key features of AngularJS 2.0, such as:
  - Babel
  - Redux
  - React
+ - React Intl
  - HTML5
  - CSS3.0
  
