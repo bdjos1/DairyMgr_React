@@ -9,6 +9,8 @@ Show case key features of AngularJS 2.0, such as:
  
 ## Technologies used
  - Node Package Manager
+ - Webpack
+ - Babel
  - Redux
  - React
  - HTML5
